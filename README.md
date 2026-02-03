@@ -2,7 +2,7 @@
 
 A real-time Mandelbrot set visualizer written in Rust. Click and drag to zoom into the fractal, right-click to reset.
 
-![Mandelbrot Set](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)
+![Mandelbrot Set](https://github.com/user-attachments/assets/2ca98948-b791-4142-a4db-0229455552d9)
 
 ## What is this?
 
